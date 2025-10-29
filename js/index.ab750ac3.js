@@ -1,0 +1,1 @@
+import{j as a,V as n,t as e}from"./vendors.6be93703.js";function s(){var s=function(a){var n="/subPackages/".concat(a,"/index");e.navigateTo({url:n})};return a.jsx(n,{className:"message-page",onClick:function(){return s("guo-ui")},children:"\u8df3\u8f6c\u7ec4\u4ef6\u5e93"})}export{s as default};

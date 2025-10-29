@@ -1,0 +1,1 @@
+import{j as s,V as r}from"./vendors.6be93703.js";function a(){return s.jsx(r,{className:"list-page",children:s.jsx(r,{className:"list",children:Array.from({length:100}).map(function(a,e){return s.jsx(r,{className:"list-card",children:e+1},e)})})})}export{a as default};
